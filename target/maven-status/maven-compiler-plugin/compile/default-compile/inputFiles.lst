@@ -1,5 +1,6 @@
-/Users/thiagodosreis/Documents/NuWorldGaming/UptownMafia-API/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/HelloMafia.java
-/Users/thiagodosreis/Documents/NuWorldGaming/UptownMafia-API/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/domain/Login.java
-/Users/thiagodosreis/Documents/NuWorldGaming/UptownMafia-API/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/exception/NotFoundException.java
-/Users/thiagodosreis/Documents/NuWorldGaming/UptownMafia-API/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/resource/LoginResource.java
-/Users/thiagodosreis/Documents/NuWorldGaming/UptownMafia-API/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/exception/ErrorMessage.java
+/Users/thiagodosreis/git/uptownmafia/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/exception/ErrorMessage.java
+/Users/thiagodosreis/git/uptownmafia/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/resource/LoginResource.java
+/Users/thiagodosreis/git/uptownmafia/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/exception/NotFoundException.java
+/Users/thiagodosreis/git/uptownmafia/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/service/LoginService.java
+/Users/thiagodosreis/git/uptownmafia/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/domain/Login.java
+/Users/thiagodosreis/git/uptownmafia/uptownmafia/src/main/java/com/nuworldgamming/uptownmafia/rest/HelloMafia.java

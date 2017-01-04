@@ -1,5 +1,5 @@
+com/nuworldgamming/uptownmafia/rest/exception/NotFoundException.class
 com/nuworldgamming/uptownmafia/rest/HelloMafia.class
 com/nuworldgamming/uptownmafia/rest/domain/Login.class
-com/nuworldgamming/uptownmafia/rest/exception/NotFoundException.class
 com/nuworldgamming/uptownmafia/rest/resource/LoginResource.class
 com/nuworldgamming/uptownmafia/rest/exception/ErrorMessage.class
